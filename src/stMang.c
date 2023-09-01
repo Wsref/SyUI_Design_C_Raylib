@@ -671,7 +671,10 @@ int main(){
 			EndDrawing();
 		}
 
-
+	free(loadTe);
+	free(loadTe1);
+	free(loadTexCarDesiScr);
+	free(myDetailsCarImgs);
 	CloseWindow();
 	return 0;
 }
