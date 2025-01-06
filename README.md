@@ -1,7 +1,7 @@
 
 ### GUI in C 
-#### Here Is The Game
+#### Here Is The UI
 
-![Screenshoot1](pict/gameZombie.gif)
+![Screenshoot1](pict/uis.gif)
     
 
