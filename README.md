@@ -3,6 +3,6 @@
 
 ##### -> Here Is The Game
 
-![Screenshoot1](Screenshots/first.gif)
+![Screenshoot1](pict/gameZombie.gif)
     
 
